@@ -6,6 +6,16 @@ name = "pypi"
 [packages]
 gunicorn = "*"
 flask = "*"
+cors = "*"
+sqlalchemy = "*"
+pytz = "*"
+marshmallow-sqlalchemy = "*"
+firebase-admin = "*"
+flask-cors = "*"
+flask-sqlalchemy = "*"
+flask-marshmallow = "*"
+psycopg = "*"
+psycopg2 = "*"
 
 [dev-packages]
 
